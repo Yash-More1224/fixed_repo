@@ -32,19 +32,19 @@
 
 | ID  | Issue Description                        | Identified By | Fixed By     |
 |-----|------------------------------------------|---------------|--------------|
-| 1   | Style.css is not filled                                    |         Narain |     Whole Team     |
-| 2   |                                          |               |              |
-| 3   |                                          |               |              |
-| 4   |                                          |               |              |
-| 5   |                                          |               |              |
-| 6   |                                          |               |              |
-| 7   |                                          |               |              |
-| 8   |                                          |               |              |
-| 9   |                                          |               |              |
-| 10  |                                          |               |              |
-| 11  |                                          |               |              |
-| 12  |                                          |               |              |
-| 13  |                                          |               |              |
+| 1   | Style.css is not filled                  |               |     ujjwal   |
+| 2   | models.py - item name changed to str     | Ujjwal        |   Ujjwal       |
+| 3   |Body from fastapi, BaseModel were not imported| yash      | yash         |
+| 4   |question should be randomly chosen        | yash          | yash         |
+| 5   | class with id,answer,score was not present| yash         | yash         |
+| 6   | duplicate post req in items.py           | Ujjwal        |     Ujjwal   |
+| 7   | implemented uvicorn server               | Ujjwal        | Ujjwal       |
+| 8   | added jwd authentivation                 | anagha        |  anagha             |
+| 9   | added added loading indicators for stats |               |              |
+| 10  | centralized dom access using statselements  | anagha              |anagha              |
+| 11  | set default alt tet for misisng plot image         anagha                                |               |              |
+| 12  | removed hardcoded loalhost:8001          |anagha               |   anagha           |
+| 13  | used consistent apibaseurl for cleaner endpoint  |  anagha             |anagha              |
 | 14  |                                          |               |              |
 | 15  |                                          |               |              |
 | 16  |                                          |               |              |
