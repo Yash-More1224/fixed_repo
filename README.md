@@ -26,7 +26,9 @@
 
 ### Add the names of the members and roll numbers of your team below
 
-- Name : Roll Number
+- yash : 2024114004
+- ujjuwal : 2024117015
+- anagha : 2024101007
 
 ### Table to keep track
 
