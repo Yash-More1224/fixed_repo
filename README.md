@@ -40,9 +40,9 @@
 | 6   | duplicate post req in items.py           | Ujjwal        |     Ujjwal   |
 | 7   | implemented uvicorn server               | Ujjwal        | Ujjwal       |
 | 8   | added jwd authentivation                 | anagha        |  anagha             |
-| 9   | added added loading indicators for stats |               |              |
+| 9   | added added loading indicators for stats |  anagha             |         anagha     |
 | 10  | centralized dom access using statselements  | anagha              |anagha              |
-| 11  | set default alt tet for misisng plot image         anagha                                |               |              |
+| 11  | set default alt tet for misisng plot image   |      anagha          |    anagha           |
 | 12  | removed hardcoded loalhost:8001          |anagha               |   anagha           |
 | 13  | used consistent apibaseurl for cleaner endpoint  |  anagha             |anagha              |
 | 14  |                                          |               |              |
